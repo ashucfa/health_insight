@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692549898828",
+    "project_id": "healthinsight-e09a2",
+    "storage_bucket": "healthinsight-e09a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692549898828:android:c3b383bb6c572e83491ae9",
+        "android_client_info": {
+          "package_name": "com.example.health_insight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvnphCkrcfQSnjZdT1Iq2DZhqt09wXIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
